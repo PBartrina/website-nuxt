@@ -89,7 +89,7 @@
         "1": "He retomado el uso de la impresora 3D."
       }
     },
-    "inspiration": "Esta es mi página \"ahora\" inspirada en el movimiento now page."
+    "inspiration": "Esta es mi página \"ahora\" inspirada en el <a href=\"https://nownownow.com/about\" target=\"_blank\" rel=\"noopener\">movimiento now page</a>."
   },
   "nav": {
     "home": "Inicio",

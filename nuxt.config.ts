@@ -32,7 +32,7 @@ export default defineNuxtConfig({
     lazy: true,
     compilation: {
       strictMessage: false,
-      escapeHtml: true
+      escapeHtml: false
     },
     vueI18n: './i18n.config.ts'
   },

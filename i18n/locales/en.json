@@ -89,7 +89,7 @@
         "1": "I've resumed using the 3D printer."
       }
     },
-    "inspiration": "This is my \"now\" page inspired by the now page movement."
+    "inspiration": "This is my \"now\" page inspired by the <a href=\"https://nownownow.com/about\" target=\"_blank\" rel=\"noopener\">now page movement</a>."
   },
   "nav": {
     "home": "Home",

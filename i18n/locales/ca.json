@@ -89,7 +89,7 @@
         "1": "He reprès l'ús de impressora 3D."
       }
     },
-    "inspiration": "Aquesta és la meva pàgina \"ara\" inspirada en el moviment now page."
+    "inspiration": "Aquesta és la meva pàgina \"ara\" inspirada en el <a href=\"https://nownownow.com/about\" target=\"_blank\" rel=\"noopener\">moviment now page</a>."
   },
   "nav": {
     "home": "Inici",

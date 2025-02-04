@@ -10,5 +10,7 @@ export default {
     ca,
     es,
     en
-  }
+  },
+  escapeHtml: false,
+  warnHtmlInMessage: false
 } 
