@@ -1,0 +1,106 @@
+{
+  "home": {
+    "title": "Hi! I'm Pau",
+    "subtitle": "Frontend Developer",
+    "email": "Contact me",
+    "featured": {
+      "title": "Featured Projects",
+      "projects": {
+        "project1": {
+          "title": "Project One",
+          "description": "Description of the first project...",
+          "demo": "Demo",
+          "code": "Code"
+        },
+        "project2": {
+          "title": "Project Two",
+          "description": "Description of the second project...",
+          "demo": "Demo",
+          "code": "Code"
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "About me",
+    "bio": "Senior Frontend Developer with over 7 years of experience in developing modern and scalable web applications.",
+    "skills": {
+      "title": "Skills",
+      "categories": {
+        "frontend": { "title": "Frontend" },
+        "backend": { "title": "Backend" },
+        "tools": { "title": "Tools" }
+      }
+    },
+    "experience": {
+      "title": "Experience",
+      "jobs": {
+        "bytedefault_senior": {
+          "title": "Senior Front-end Developer at Byte Default",
+          "period": "June 2017 - Present · 7 years 9 months",
+          "description": "Web architecture and Angular development up to the latest version. Featured project: AIX - Alternative Investment Exchange, a platform that solves connectivity and visibility issues in the alts investment system.",
+          "location": "Clot, Barcelona"
+        },
+        "gft": {
+          "title": "Analyst Programmer at GFT Group",
+          "period": "September 2015 - May 2017 · 1 year 9 months",
+          "description": "Proof of concept and feasibility study of new front-end technologies (Angular2, NativeScript, React-Native, Ionic2, Apple TVML.Kit).",
+          "location": "Sant Cugat Del Valles, Catalonia"
+        },
+        "birium": {
+          "title": "Co-Founder and Front-end Developer at Birium",
+          "period": "August 2013 - August 2016 · 3 years 1 month",
+          "description": "Developer, designer, photographer.",
+          "location": "Barcelona and surroundings"
+        },
+        "salerware": {
+          "title": "Front-end Developer at Salerware",
+          "period": "November 2013 - March 2015 · 1 year 5 months",
+          "description": "JavaScript developer focused on implementing encryption technologies for high-security and privacy products.",
+          "location": "Barcelona"
+        },
+        "lasalle": {
+          "title": "Assistant Professor at La Salle BCN",
+          "period": "February 2012 - July 2012 · 6 months",
+          "description": "Teaching Assistant for the Digital Photography course in the Multimedia Engineering degree",
+          "location": "Barcelona and surroundings"
+        }
+      }
+    }
+  },
+  "now": {
+    "title": "What I'm doing now",
+    "lastUpdate": "Last update: January 2025",
+    "location": "I live in Sant Pere de Vilamajor, at the foot of Montseny.",
+    "work": "I work as a web developer at Byte Default",
+    "priorities": {
+      "title": "My priorities",
+      "list": {
+        "0": "Find decent hosting and build my website with Nuxt.",
+        "1": "Create a comfortable living environment for Bernarda, Catalina and Olivia, my chickens 🐔.",
+        "2": "Find a solution to the power loss at home.",
+        "3": "Take better care of myself, physically and mentally."
+      }
+    },
+    "interests": {
+      "title": "What excites me",
+      "list": {
+        "0": "Taking care of the garden.",
+        "1": "I've resumed using the 3D printer."
+      }
+    },
+    "inspiration": "This is my \"now\" page inspired by the now page movement."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "now": "Now"
+  },
+  "footer": {
+    "made": "Made with",
+    "by": "by",
+    "source": "Source code",
+    "contact": "Contact",
+    "rights": "All rights reserved"
+  }
+} 

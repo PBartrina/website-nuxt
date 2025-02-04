@@ -1,0 +1,106 @@
+{
+  "home": {
+    "title": "Hola! Sóc en Pau",
+    "subtitle": "Desenvolupador Frontend",
+    "email": "Contacta'm",
+    "featured": {
+      "title": "Projectes Destacats",
+      "projects": {
+        "project1": {
+          "title": "Projecte Un",
+          "description": "Descripció del primer projecte...",
+          "demo": "Demo",
+          "code": "Codi"
+        },
+        "project2": {
+          "title": "Projecte Dos",
+          "description": "Descripció del segon projecte...",
+          "demo": "Demo",
+          "code": "Codi"
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre mi",
+    "bio": "Desenvolupador Frontend Senior amb més de 7 anys d'experiència en el desenvolupament d'aplicacions web modernes i escalables.",
+    "skills": {
+      "title": "Habilitats",
+      "categories": {
+        "frontend": { "title": "Frontend" },
+        "backend": { "title": "Backend" },
+        "tools": { "title": "Eines" }
+      }
+    },
+    "experience": {
+      "title": "Experiència",
+      "jobs": {
+        "bytedefault_senior": {
+          "title": "Desenvolupador Front-end Senior a Byte Default",
+          "period": "Juny 2017 - Present · 7 anys 9 mesos",
+          "description": "Arquitectura web i desenvolupament Angular fins a l'última versió. Projecte destacat: AIX - Alternative Investment Exchange, una plataforma que resol els problemes de connectivitat i visibilitat en el sistema d'inversió alts.",
+          "location": "Clot, Barcelona"
+        },
+        "gft": {
+          "title": "Programadora analista a GFT Group",
+          "period": "Setembre 2015 - Maig 2017 · 1 any 9 mesos",
+          "description": "Proves de concepte i estudi de viabilitat de noves tecnologies front-end (Angular2, NativeScript, React-Native, Ionic2, Apple TVML.Kit).",
+          "location": "Sant Cugat Del Valles, Catalunya"
+        },
+        "birium": {
+          "title": "Co-Fundador i Desenvolupador Front-end a Birium",
+          "period": "Agost 2013 - Agost 2016 · 3 anys 1 mes",
+          "description": "Desenvolupador, dissenyador, fotògraf.",
+          "location": "Barcelona i voltants"
+        },
+        "salerware": {
+          "title": "Desenvolupador Front-end a Salerware",
+          "period": "Novembre 2013 - Març 2015 · 1 any 5 mesos",
+          "description": "Desenvolupador Javascript centrat en l'aplicació de tecnologies de xifrat a productes d'alta seguretat i privacitat.",
+          "location": "Barcelona"
+        },
+        "lasalle": {
+          "title": "Professor universitari assistent a La Salle BCN",
+          "period": "Febrer 2012 - Juliol 2012 · 6 mesos",
+          "description": "Assistent de l'Assignatura de Fotografia Digital del Grau en Enginyeria Multimèdia",
+          "location": "Barcelona i voltants"
+        }
+      }
+    }
+  },
+  "now": {
+    "title": "Què faig ara",
+    "lastUpdate": "Última actualització: Gener 2025",
+    "location": "Visc a Sant Pere de Vilamajor, a la part baixa del Montseny.",
+    "work": "Treballo com a programador web a Byte Default",
+    "priorities": {
+      "title": "Les meves prioritats",
+      "list": {
+        "0": "Trobar un hosting decent i fer la meva web amb Nuxt.",
+        "1": "Crear un ambient de vida còmode per a la Bernarda, la Catalina i la Olivia, les meves gallines 🐔.",
+        "2": "Trobar la solució a la pèrdua de potència a casa.",
+        "3": "Cuidar-me millor, física i mentalment."
+      }
+    },
+    "interests": {
+      "title": "Què m'engresca",
+      "list": {
+        "0": "La cura del jardí.",
+        "1": "He reprès l'ús de impressora 3D."
+      }
+    },
+    "inspiration": "Aquesta és la meva pàgina \"ara\" inspirada en el moviment now page."
+  },
+  "nav": {
+    "home": "Inici",
+    "about": "Sobre mi",
+    "now": "Ara"
+  },
+  "footer": {
+    "made": "Fet amb",
+    "by": "per",
+    "source": "Codi font",
+    "contact": "Contacte",
+    "rights": "Tots els drets reservats"
+  }
+} 

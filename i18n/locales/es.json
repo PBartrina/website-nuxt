@@ -1,0 +1,106 @@
+{
+  "home": {
+    "title": "¡Hola! Soy Pau",
+    "subtitle": "Desarrollador Frontend",
+    "email": "Contáctame",
+    "featured": {
+      "title": "Proyectos Destacados",
+      "projects": {
+        "project1": {
+          "title": "Proyecto Uno",
+          "description": "Descripción del primer proyecto...",
+          "demo": "Demo",
+          "code": "Código"
+        },
+        "project2": {
+          "title": "Proyecto Dos",
+          "description": "Descripción del segundo proyecto...",
+          "demo": "Demo",
+          "code": "Código"
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre mí",
+    "bio": "Desarrollador Frontend Senior con más de 7 años de experiencia en el desarrollo de aplicaciones web modernas y escalables.",
+    "skills": {
+      "title": "Habilidades",
+      "categories": {
+        "frontend": { "title": "Frontend" },
+        "backend": { "title": "Backend" },
+        "tools": { "title": "Herramientas" }
+      }
+    },
+    "experience": {
+      "title": "Experiencia",
+      "jobs": {
+        "bytedefault_senior": {
+          "title": "Desarrollador Front-end Senior en Byte Default",
+          "period": "Junio 2017 - Presente · 7 años 9 meses",
+          "description": "Arquitectura web y desarrollo Angular hasta la última versión. Proyecto destacado: AIX - Alternative Investment Exchange, una plataforma que resuelve los problemas de conectividad y visibilidad en el sistema de inversión alts.",
+          "location": "Clot, Barcelona"
+        },
+        "gft": {
+          "title": "Programadora analista en GFT Group",
+          "period": "Septiembre 2015 - Mayo 2017 · 1 año 9 meses",
+          "description": "Pruebas de concepto y estudio de viabilidad de nuevas tecnologías front-end (Angular2, NativeScript, React-Native, Ionic2, Apple TVML.Kit).",
+          "location": "Sant Cugat Del Valles, Cataluña"
+        },
+        "birium": {
+          "title": "Co-Fundador y Desarrollador Front-end en Birium",
+          "period": "Agosto 2013 - Agosto 2016 · 3 años 1 mes",
+          "description": "Desarrollador, diseñador, fotógrafo.",
+          "location": "Barcelona y alrededores"
+        },
+        "salerware": {
+          "title": "Desarrollador Front-end en Salerware",
+          "period": "Noviembre 2013 - Marzo 2015 · 1 año 5 meses",
+          "description": "Desarrollador Javascript centrado en la aplicación de tecnologías de cifrado a productos de alta seguridad y privacidad.",
+          "location": "Barcelona"
+        },
+        "lasalle": {
+          "title": "Profesor universitario asistente en La Salle BCN",
+          "period": "Febrero 2012 - Julio 2012 · 6 meses",
+          "description": "Asistente de la Asignatura de Fotografía Digital del Grado en Ingeniería Multimedia",
+          "location": "Barcelona y alrededores"
+        }
+      }
+    }
+  },
+  "now": {
+    "title": "Qué hago ahora",
+    "lastUpdate": "Última actualización: Enero 2025",
+    "location": "Vivo en Sant Pere de Vilamajor, en la parte baja del Montseny.",
+    "work": "Trabajo como programador web en Byte Default",
+    "priorities": {
+      "title": "Mis prioridades",
+      "list": {
+        "0": "Encontrar un hosting decente y hacer mi web con Nuxt.",
+        "1": "Crear un ambiente de vida cómodo para Bernarda, Catalina y Olivia, mis gallinas 🐔.",
+        "2": "Encontrar la solución a la pérdida de potencia en casa.",
+        "3": "Cuidarme mejor, física y mentalmente."
+      }
+    },
+    "interests": {
+      "title": "Qué me emociona",
+      "list": {
+        "0": "El cuidado del jardín.",
+        "1": "He retomado el uso de la impresora 3D."
+      }
+    },
+    "inspiration": "Esta es mi página \"ahora\" inspirada en el movimiento now page."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "now": "Ahora"
+  },
+  "footer": {
+    "made": "Hecho con",
+    "by": "por",
+    "source": "Código fuente",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados"
+  }
+} 
