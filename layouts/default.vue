@@ -61,13 +61,13 @@
         </div>
         
         <div class="footer-social">
-          <a href="https://bsky.app" target="_blank" aria-label="Bluesky">
+          <a href="https://bsky.app/profile/paubartrina.cat" target="_blank" aria-label="Bluesky">
             <font-awesome-icon :icon="['fab', 'bluesky']" class="social-icon" />
           </a>
-          <a href="https://linkedin.com" target="_blank" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/pau-martinez-calvet/" target="_blank" aria-label="LinkedIn">
             <font-awesome-icon :icon="['fab', 'linkedin-in']" class="social-icon" />
           </a>
-          <a href="https://github.com" target="_blank" aria-label="GitHub">
+          <a href="https://github.com/PBartrina" target="_blank" aria-label="GitHub">
             <font-awesome-icon :icon="['fab', 'github-alt']" class="social-icon" />
           </a>
         </div>

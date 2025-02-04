@@ -61,7 +61,7 @@ const experience = [
     year: '2013'
   },
   {
-    id: 'salerware',
+    id: 'salemware',
     year: '2013'
   },
   {
